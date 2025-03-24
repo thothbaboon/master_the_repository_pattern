@@ -1,9 +1,3 @@
----
-title: "Master the Repository Pattern"
-publishDate: "27 Oct 2023"
-description: "Isolate the data persistence from the business logic. Complete guide to master the repository pattern, with Typescript examples."
----
-
 # Master the Repository Pattern
 
 ## Introduction
